@@ -2,7 +2,10 @@
 
 This machine-learning-based instrument classifier made with SuperCollider and FluCoMa can learn the timbre of instruments through MFCC (mel-frequency cepstral coefficients) analysis. This program comes with a friendly user interface that allows everyone to play with simple machine learning. 
 
-How to use:
+## Video Demonstration
+https://youtu.be/B-DmYWOJfHA
+
+## How to use
 1. Run the SuperCollider code. The user interface will pop up. 
 2. Boot the server and then click on "Initialize".
 3. Put your audio files for training in the same directory as the code file.
